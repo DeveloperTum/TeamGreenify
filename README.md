@@ -1,2 +1,2 @@
 # TeamGreenify
- WebApp based on HTML.CSS and Angularjs
+ WebApp based on HTML,CSS and Angularjs
